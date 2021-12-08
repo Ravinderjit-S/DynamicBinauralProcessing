@@ -16,6 +16,9 @@ This folder contains the code to analyze the EEG data recorded from a em-seq bin
 <ol>
 <li> This script averages mcBTRFs across subjects and does a PCA analysis to get a sBTRF. Also does comparison with behavior
 </li>
+<li>
+See sBTRF.ipyb for a Jupyter notebook that walks through this analysis
+</li>
 </ol>
 <li> DynBinProccFig.py </li>
 <ol>
