@@ -22,4 +22,9 @@ This folder contains the code to analyze dynamic binaural behavior data.
 <li> This script generates all figures used in publication
 </li>
 </ol>
+<li> Analyze_OnlineResults_FMphi.py </li>
+<ol>
+<li> This script analyzes the online FM phase difference detection data
+</li>
+</ol>
 </ol>

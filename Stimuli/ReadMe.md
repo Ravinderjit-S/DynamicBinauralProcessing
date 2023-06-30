@@ -10,5 +10,8 @@ This folder contains the code to generate many of the stimuli used in the study 
 <li> OSCOR.m is a script to quickly generate a OSCOR stimulus
 </li>
 </ol>
+<li> GenOnlineStim_FMphi.m was used to generate the FM phase difference detection stimuli</li>
+<ol>
+</ol>
 <li> The remaining scripts are involved with generating the binaural mseq stimulus for EEG </li>
 </ol>
